@@ -3,7 +3,7 @@
    System.out.println("Prime numbers between 1 and 500 are:");
 
         // Loop through numbers from 2 to 100
-        for (int i = 2; i <= 1000; i++) {
+        for (int i = 2; i <= 50; i++) {
             if (isPrime(i)) {
                 System.out.print(i + " ");
             }
@@ -28,5 +28,6 @@
     }
 
 }
+
 
 
